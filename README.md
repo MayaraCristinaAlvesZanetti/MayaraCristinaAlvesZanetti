@@ -19,7 +19,7 @@
  
   
 <div> 
- <a href="https://instagram.com/analyce_ferreira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://instagram.com/mayc_alves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "mailto:maya.palves@gmail.com.br"><img src="https://img.shields.io/badge/-Mail-%23333?style=for-the-badge&logo=maildotru&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/mayara-cristina-alves-zanetti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
