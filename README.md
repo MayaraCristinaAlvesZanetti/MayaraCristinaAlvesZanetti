@@ -1,9 +1,9 @@
 ### Olá sou 👋Mayara  Cristina  Alves Zanetti, dev em desenvolvimento!
 
 <div align="center">
-  <a href="https://github.com/ryukajs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayaraCristinaAlvesZanetti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayaraCristinaAlvesZanetti&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/MayaraCristinaAlvesZanetti">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayaraCristinaAlvesZanetti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayaraCristinaAlvesZanetti&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
