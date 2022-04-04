@@ -7,12 +7,16 @@
 </div>
   
 <div style="display: inline_block"><br>
-<!--   <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">  -->
-<!--   <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> -->
+  <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Mayara-js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mayara-HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mayara-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+  <img align="center" alt="Mayara-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Mayara-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain-wordmark.svg">
+  <img align="center" alt="Mayara-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Mayara-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  </div>
   
   ##
   
@@ -22,29 +26,5 @@
   </div>
 
   
-  name: Generate Datas
-
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    name: Jobs to update datas
-    runs-on: ubuntu-latest
-    steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: MayaraCristinaAlvesZanetti
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  
   
