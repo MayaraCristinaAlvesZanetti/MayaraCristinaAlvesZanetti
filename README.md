@@ -20,8 +20,7 @@
  <div> 
  <a href="https://instagram.com/mayc_alves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/mayara-cristina-alves-zanetti-b21a561b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   [![Gmail Badge](https://img.shields.io/badge/-maya.palves@gmail.com-1E90FF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maya.palves@gmail.com)](mailto:maya.palves@gmail.com)
-  </div>
+</div>
 
   
   
